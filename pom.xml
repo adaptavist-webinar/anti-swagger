@@ -15,7 +15,7 @@
     </prerequisites>
 
     <build>
-        <defaultGoal>install</defaultGoal>
+        <defaultGoal>install</defaultGaol>
         <directory>target</directory>
         <finalName>${project.artifactId}-${project.version}</finalName>
         <plugins>
